@@ -540,7 +540,7 @@
             ]
           },
           {
-            "alias": "jkan response ms",
+            "alias": "ltal response ms",
             "groupBy": [
               {
                 "params": [
@@ -579,7 +579,7 @@
               {
                 "key": "url",
                 "operator": "=",
-                "value": "jkan.pl"
+                "value": "ltal.pl"
               }
             ]
           }
