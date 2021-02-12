@@ -38,8 +38,8 @@
 - hosts: lb_nodes
   become: yes
   vars:
-    DOMAIN_NAME: vouchershop1.jkan.pl
-    DOMAIN_OWNER_EMAIL: jakub.kanclerz@gmail.com
+    DOMAIN_NAME: vouchershop1.ltal.pl
+    DOMAIN_OWNER_EMAIL: lukasz.piwniczna@gmail.com
     APP_NODE_IPS: 
       - '172.31.47.146:5000'
     EPEL_RPM_URL: https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
